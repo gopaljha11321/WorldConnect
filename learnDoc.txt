@@ -1,0 +1,4 @@
+NextJs -> IT is react framework which work on node version 18.17+, this is use widely because it work on server side rendering.
+
+Routing -> Routing in Next JS working on File system of folder structure which follow convention not configuration.
+so Folder should contain page component which can use in routing system of folder structure, and the name of component should be "page" + using structure like(js, jsx, and tsx)
